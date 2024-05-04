@@ -1,10 +1,10 @@
 {
-    "domain":"https://h5.jeff-in.com",
-    "socketAddress": "wss://h5.jeff-in.com",
-    "appName":"JEFF-IN",
-    "iosAuditSwitch":"true",
+    "globalDomain":"https://h5.jeff-in.com",
+    "globalWebSocket": "wss://h5.jeff-in.com",
+    "globalName":"JEFF-IN",
     "androidAuditSwitch":"true",
-    "logo":"https://s2.loli.net/2024/04/26/wRZuqGAezvFLsjD.png",
-    "globalLanguage":"en",
-    "theme":"system"
+    "iosAuditSwitch":"true",
+    "globalLogo":"https://s2.loli.net/2024/04/26/wRZuqGAezvFLsjD.png",
+    "globalFirstTheme":"system",
+    "globalLanguage":"system"
 }
